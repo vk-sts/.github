@@ -5,4 +5,4 @@ permissions:
   contents: read
 
 repositories:
-- source
+  - source
