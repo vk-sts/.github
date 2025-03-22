@@ -7,6 +7,4 @@ permissions:
 
 # On these repositories
 repositories:
-- foo
-- bar
 - source
