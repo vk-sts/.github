@@ -5,4 +5,5 @@ permissions:
   contents: read
   issues: write
 
-repositories: []
+repositories:
+- source
