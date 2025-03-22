@@ -3,4 +3,6 @@ subject: repo:vk-sts/my-test-repo:ref:refs/heads/main
 
 permissions:
   contents: read
-  issues: write
+
+repositories:
+- source
