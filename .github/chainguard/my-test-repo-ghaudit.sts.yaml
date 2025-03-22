@@ -8,4 +8,4 @@ permissions:
 repositories:
 - enterprise-advisories
 - enterprise-packages
-- source
+- source-repo
