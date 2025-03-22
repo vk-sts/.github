@@ -3,5 +3,6 @@ subject: repo:vk-sts/my-test-repo:ref:refs/heads/main
 
 permissions:
   contents: read
+  issues: read
 
 repositories: [] # Act over all of the repos in the org.
