@@ -6,5 +6,4 @@ permissions:
   issues: write
 
 # On these repositories
-repositories:
-- source
+repositories: []
