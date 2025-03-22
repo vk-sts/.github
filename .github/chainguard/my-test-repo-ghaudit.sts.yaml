@@ -6,4 +6,6 @@ permissions:
   issues: write
 
 repositories:
-  - source
+- enterprise-advisories
+- enterprise-packages
+- source
