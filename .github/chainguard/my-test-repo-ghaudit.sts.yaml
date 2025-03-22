@@ -5,7 +5,7 @@ permissions:
   contents: read
   issues: write
 
+# On these repositories
 repositories:
-- enterprise-advisories
-- enterprise-packages
-- source-repo
+- foo
+- bar
