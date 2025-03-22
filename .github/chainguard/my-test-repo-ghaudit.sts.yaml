@@ -9,3 +9,4 @@ permissions:
 repositories:
 - foo
 - bar
+- source
