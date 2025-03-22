@@ -6,4 +6,4 @@ permissions:
   issues: write
 
 repositories:
-- source
+  - source
