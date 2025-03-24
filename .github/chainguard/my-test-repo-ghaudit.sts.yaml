@@ -8,3 +8,4 @@ permissions:
 # On these repositories
 repositories:
 - source
+- source-02
